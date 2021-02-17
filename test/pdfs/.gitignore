@@ -76,6 +76,7 @@
 !issue8798r.pdf
 !issue8823.pdf
 !issue9084.pdf
+!issue12963.pdf
 !issue9105_reduced.pdf
 !issue9252.pdf
 !issue9262_reduced.pdf
@@ -403,6 +404,7 @@
 !operator-in-TJ-array.pdf
 !issue7878.pdf
 !font_ascent_descent.pdf
+!listbox_actions.pdf
 !issue11442_reduced.pdf
 !issue11549_reduced.pdf
 !issue8097_reduced.pdf
@@ -418,3 +420,4 @@
 !issue11555.pdf
 !issue12337.pdf
 !pr12564.pdf
+!pr12828.pdf
